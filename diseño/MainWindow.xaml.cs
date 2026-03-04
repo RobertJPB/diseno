@@ -31,6 +31,8 @@ namespace YourApp
 
             // Normalmente luego de aplicar:
             // btnApply.IsEnabled = false;
+
+
         }
 
         // Help: ayuda simple
